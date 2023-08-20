@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
 html, body {
     height: 100%;
     background-color: #ff7700;
@@ -8,8 +9,8 @@ html, body {
   
   body {
     display: grid;
-    font-family: Avenir, sans-serif;
-    color: #fff;
+    font-family: 'Russo One', sans-serif;
+    color: #f7cb05;
   }
   
   a {
@@ -51,7 +52,7 @@ html, body {
     fill: none;
     stroke-linecap: round;
     stroke-linejoin: round;
-    stroke: #fff;
+    stroke: #f7cb05;
     stroke-width: 2;
     transform: translateX(-5px);
     transition: all 0.3s ease;
